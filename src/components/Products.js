@@ -6,7 +6,7 @@ function Products() {
       <ul>
         <h1>Products list 2</h1>
         <h2>
-          <Link to="/Cars/Audi">Cars</Link>
+          <Link to="/Cars/Audi">Cars List</Link>
         </h2>
         <h2>
           <Link to="/Bikes/Yamaha">Bikes</Link>
