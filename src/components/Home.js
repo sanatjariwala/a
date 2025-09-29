@@ -4,7 +4,7 @@ function Home() {
   const navigate = useNavigate();
   return (
     <div>
-      <h1>Home</h1>
+      <h1>Home 1</h1>
       <nav>
         <ul>
           {/* <h3>
