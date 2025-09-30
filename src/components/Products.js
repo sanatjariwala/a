@@ -9,7 +9,7 @@ function Products() {
           <Link to="/Cars/Audi">Cars for new branch</Link>
         </h2>
         <h2>
-          <Link to="/Bikes/Yamaha">Bikes</Link>
+          <Link to="/Bikes/Yamaha">Bikes for conflict</Link>
         </h2>
       </ul>
     </div>
