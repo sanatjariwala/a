@@ -1,8 +1,7 @@
-import { useSearchParams } from "react-router-dom";
+import { useParams, useSearchParams } from "react-router-dom";
 
 function Dynamic() {
-  const [searchParms] = useSearchParams();
-  const searchQ = searchParms.get("search");
+  const { searchQ } = useParams();
 
   return (
     <div>
