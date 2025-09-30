@@ -7,7 +7,9 @@ function Dynamic() {
     <div>
       {/* {searchQ && */}
       <h2>Hello , {searchQ}</h2>
-      <h3>Welcome to your personalized page.</h3>
+      <h3>
+        Welcome to your personalized page.Add extra text for learning conflict
+      </h3>
     </div>
   );
 }
