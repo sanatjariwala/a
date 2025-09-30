@@ -4,7 +4,7 @@ function Products() {
   return (
     <div>
       <ul>
-        <h1>Products list 2</h1>
+        <h1>Products list</h1>
         <h2>
           <Link to="/Cars/Audi">Cars list</Link>
         </h2>
