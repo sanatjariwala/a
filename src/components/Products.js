@@ -6,10 +6,10 @@ function Products() {
       <ul>
         <h1>Products list 2</h1>
         <h2>
-          <Link to="/Cars/Audi">Cars for new branch</Link>
+          <Link to="/Cars/Audi">Cars are here</Link>
         </h2>
         <h2>
-          <Link to="/Bikes/Yamaha">Bikes for conflict</Link>
+          <Link to="/Bikes/Yamaha">Bikes used</Link>
         </h2>
       </ul>
     </div>
