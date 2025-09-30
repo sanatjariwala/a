@@ -20,7 +20,7 @@ export default function App() {
           <Route path="/ContactUs" element={<ContactUs />} />
           <Route path="/Cars/:cname" element={<Cars />} />
           <Route path="/Bikes/:bname" element={<Bikes />} />
-          <Route path="/Dynamic" element={<Dynamic />} />
+          <Route path="/Dynamic/:searchQ" element={<Dynamic />} />
           <></>
         </Routes>
       </div>
